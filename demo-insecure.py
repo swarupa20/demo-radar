@@ -1,4 +1,5 @@
-# Dummy Python code that stores secrets insecurely
+
+Email = "swarupa.snapalli@gmail.com"# Dummy Python code that stores secrets insecurely
 
 # Insecure: Hardcoded secrets in source code
 API_KEY = "12345-abcdefg-SECRET-KEY"
