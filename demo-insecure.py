@@ -1,4 +1,6 @@
 
+whitelist
+SSN="12345609876543"
 Email = "swarupa.snapalli@gmail.com"# Dummy Python code that stores secrets insecurely
 
 # Insecure: Hardcoded secrets in source code
