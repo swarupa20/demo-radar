@@ -1,5 +1,6 @@
  Dummy Python code that stores secrets insecurely
 
+Blacklist
 rahul.raj@gmail.com
 
 # Insecure: Hardcoded secrets in source code
