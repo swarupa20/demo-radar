@@ -1,8 +1,5 @@
  Dummy Python code that stores secrets insecurely
 
-Blacklist
-rahul.raj@gmail.com
-
 # Insecure: Hardcoded secrets in source code
 API_KEY = "12345-abcdefg-SECRET-KEY"
 DB_PASSWORD = "supersecretpassword"
